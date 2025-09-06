@@ -15,9 +15,9 @@ https://github.com/user-attachments/assets/4ddf7a83-3aa7-41d5-b770-99db92bad613
 
 ## 🕹️ How to Play
 
-- Use the **arrow keys** to move around.  
-- Dodge the enemies spawning on the screen.  
-- The longer you survive, the **higher your score**.  
+- Use the **arrow keys** to move around.
+- Use **arrow up** to jump.    
+- The more coins you collect, the **higher your score**.  
 - If you get hit, the game is over.
 
 ---
